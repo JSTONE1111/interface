@@ -74,7 +74,7 @@
     "expo-haptics": "14.0.1",
     "expo-web-browser": "14.0.2",
     "fuse.js": "6.5.3",
-    "graphql": "16.6.0",
+    "graphql": "16.8.1",
     "i18next": "23.10.0",
     "i18next-resources-to-backend": "1.2.1",
     "idb-keyval": "6.2.1",
