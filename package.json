@@ -29,7 +29,7 @@
     "i18next": "23.10.0",
     "i18next-parser": "8.6.0",
     "inquirer": "8.2.6",
-    "js-yaml": "4.1.0",
+    "js-yaml": "4.1.1",
     "knip": "5.50.5",
     "lefthook": "1.12.2",
     "moti": "0.29.0",
@@ -38,7 +38,7 @@
     "syncpack": "8.5.14",
     "tslib": "2.3.0",
     "typescript": "5.3.3",
-    "wrangler": "4.28.0"
+    "wrangler": "4.59.1"
   },
   "engines": {
     "node": "=22.13.1",
